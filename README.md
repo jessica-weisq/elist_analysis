@@ -26,15 +26,20 @@ The dataset consisted of four tables, capturing information on orders, customers
 <img width="600" height="360" alt="Screenshot 2026-04-09 at 15 16 57" src="https://github.com/user-attachments/assets/c95742f4-8476-4e80-929c-776ad0407dd2" />
 
 
-
 ## Deep-Dive Insights
 Body text
 
 ### Sales Trends
-Body text
+- 
+- Overall sales and AOV decreased from 2021 to 2022, but the sales are likely to recover after COVID
 
 ### Product Trends
 
 ### Loyalty Program
+- Initially, the annual sales from non-loyalty customers increased significantly between 2019 to 2020, from $3.45 million to $7.19 million, but then drastically dipped from 2020 to 2023, eventually reaching an all-time low of $2.24 million
+- On the other hand, the annual sales from loyalty programme customers were only at $416k in 2019, but saw strong growth for 2 consecutive years and eventually surpassed non-loyalty customers ($4.87 million vs $4.26 million) in 2022
+- The sales increase of loyalty members is driven by growth in both order numbers and AOV, although the AOV of Loyalty members remains consistently lower than that of non-loyalty members until the end of 2021
+- Both sales and AOV from all customer segments decreased from 2021 to 2022, with loyalty members being the main contributor of revenue
+
 
 ### Refund rates
