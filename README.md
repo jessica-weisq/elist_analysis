@@ -27,19 +27,24 @@ The dataset consisted of four tables, capturing information on orders, customers
 
 
 ## Deep-Dive Insights
-Body text
 
 ### Sales Trends
-- 
+- With 85% of orders and sales originating from just 17 countries, Elist should concentrate marketing efforts on maintaining market penetration in these specific regions in the short term. To foster growth opportunities over the longer term, Elist should launch an initiative to identify "lookalike" countries that mirror the characteristics of its top performers
+- It is also in Elist's best interest to prioritize experimentation within the APAC region. Although this market currently accounts for 12% of sales, it boasts the highest Average Order Value (AOV). Combined with the understanding that consumer behavior in this region leans toward purchasing higher-priced "status symbols," focused efforts to penetrate this market should provide a significant boost in overall revenue
 - Overall sales and AOV decreased from 2021 to 2022, but the sales are likely to recover after COVID
 
 ### Product Trends
+- Apple Airpods are Elist's most popular product by order count, comprising 45% of all orders (45K+). The 27in 4K Gaming Monitor is Elist's top revenue generating product, generating almost $10M (35% of total sales)
+- The top 4 products (Airpods, Gaming Monitor, Macbook Air & ThinkPad) generate 96% of revenue - these products should be prioritised over the rest of its current catalogue to maintain market presence
+- Of importance to note, Elist sees a significant amount of orders of the Samsung Charging Cable Pack (20%). Even though this product generates 2% of total sales, an opportunity to capture more value by offering a bundle version of this product, with a relevant device, exists
 
 ### Loyalty Program
 - Initially, the annual sales from non-loyalty customers increased significantly between 2019 to 2020, from $3.45 million to $7.19 million, but then drastically dipped from 2020 to 2023, eventually reaching an all-time low of $2.24 million
 - On the other hand, the annual sales from loyalty programme customers were only at $416k in 2019, but saw strong growth for 2 consecutive years and eventually surpassed non-loyalty customers ($4.87 million vs $4.26 million) in 2022
 - The sales increase of loyalty members is driven by growth in both order numbers and AOV, although the AOV of Loyalty members remains consistently lower than that of non-loyalty members until the end of 2021
 - Both sales and AOV from all customer segments decreased from 2021 to 2022, with loyalty members being the main contributor of revenue
+<img width="887" height="187" alt="Screenshot 2026-04-12 at 18 30 39" src="https://github.com/user-attachments/assets/55def41e-15fb-4883-8b93-389d3f26ce6a" />
 
 
-### Refund rates
+
+
