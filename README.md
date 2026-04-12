@@ -1,4 +1,4 @@
-# Ecommerce Sales Analysis for Elist
+# E-commerce Sales Analysis for Elist
 
 ## Project Goal
 
@@ -32,6 +32,7 @@ The dataset consisted of four tables, capturing information on orders, customers
 - With 85% of orders and sales originating from just 17 countries, Elist should concentrate marketing efforts on maintaining market penetration in these specific regions in the short term. To foster growth opportunities over the longer term, Elist should launch an initiative to identify "lookalike" countries that mirror the characteristics of its top performers
 - It is also in Elist's best interest to prioritize experimentation within the APAC region. Although this market currently accounts for 12% of sales, it boasts the highest Average Order Value (AOV). Combined with the understanding that consumer behavior in this region leans toward purchasing higher-priced "status symbols," focused efforts to penetrate this market should provide a significant boost in overall revenue
 - Overall sales and AOV decreased from 2021 to 2022, but the sales are likely to recover after COVID
+<img width="629" height="151" alt="Screenshot 2026-04-12 at 18 33 52" src="https://github.com/user-attachments/assets/8ba01e23-81d2-4db9-aac9-3adcb94fa16f" />
 
 ### Product Trends
 - Apple Airpods are Elist's most popular product by order count, comprising 45% of all orders (45K+). The 27in 4K Gaming Monitor is Elist's top revenue generating product, generating almost $10M (35% of total sales)
